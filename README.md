@@ -12,6 +12,10 @@
   1) Bootstrap
   2) JSP
   3) JQUERY
+  
+DB
+  1) H2(인메모리)
+
 
 ```
 
@@ -51,12 +55,12 @@ API 정보
     나. 추가
     URL : /api/v1/insert.do
     Method : post
-    Parameter : String todo
+    Parameter : String todo (할일 뒤에 @아이디를 추가하면 해당 아이디 참조 추가)
   
     다. 업데이트
     URL : /api/v1/update.do
     Method : put
-    Parameter : long id, String todo
+    Parameter : long id, String todo (할일 뒤에 @아이디를 추가하면 해당 아이디 참조 추가)
   
     라. 완료
     URL : /api/v1/complete.do

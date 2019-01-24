@@ -54,5 +54,5 @@ API 정보
     Parameter : long id
   
 ```
-![contents](./src/main/webapp/images/contents.PNG)
+![contents](/tree/master/src/main/webapp/images/contents.PNG)
 

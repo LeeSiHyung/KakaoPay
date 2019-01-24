@@ -1,17 +1,17 @@
 # 카카오페이 사전과제
 
 ```
-1) **백엔트**
-  ㅇ JAVA8
-  ㅇ 스프링 MVC
-  ㅇ JPA
-  ㅇ Tomcat8.5
-  ㅇ Maven
+백엔트
+  1) JAVA8
+  2) 스프링 MVC
+  3) JPA
+  4) Tomcat8.5
+  5) Maven
   
-2) **프론트**
-  ㅇ Bootstrap
-  ㅇ JSP
-  ㅇ JQUERY
+프론트
+  1) Bootstrap
+  2) JSP
+  3) JQUERY
 
 ```
 

@@ -27,10 +27,12 @@ Page
 
 ```
 API 정보
-  1) 메시지 
+  1) 데이터 규격
+  
     application/json
   
   2) API 목록
+  
     가. 목록
     URL : /api/v1/list.do
     Method : get

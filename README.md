@@ -27,8 +27,8 @@ Page
 
 ```
 API 정보
-  1) 기본정보
-  application/json
+  1) 메시지 
+    application/json
   
   2) API 목록
     가. 목록

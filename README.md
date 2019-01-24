@@ -54,5 +54,5 @@ API 정보
     Parameter : long id
   
 ```
-![contents](./blob/master/src/main/webapp/images/contents.PNG)
+![contens](https://user-images.githubusercontent.com/18481841/51687623-489bbe80-2036-11e9-84a6-51a1d0993536.PNG)
 
